@@ -1,9 +1,11 @@
 Hey, I'm Chris 👋
+
 🧑‍💼 Full-time Product Manager working on industrial software by day, building personal projects by night.
 
 ---
 
 ⚙️ My Stack
+
 I keep things focused so I can move fast:
 
 🟦 TypeScript end-to-end
