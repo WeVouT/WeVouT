@@ -9,8 +9,11 @@ Hey, I'm Chris 👋
 I keep things focused so I can move fast:
 
 🟦 TypeScript end-to-end
+
 🔺 NestJS for structured, scalable backends
+
 ⚛️ React for everything frontend
+
 🐘 PostgreSQL as my database of choice
 
 ---
