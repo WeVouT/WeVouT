@@ -1,10 +1,10 @@
-#Hey, I'm Chris 👋
+# Hey, I'm Chris 👋
 
 🧑‍💼 Full-time Product Manager working on industrial software by day, building personal projects by night.
 
 ---
 
-##⚙️ My Stack
+## ⚙️ My Stack
 
 I keep things focused so I can move fast:
 
@@ -16,7 +16,7 @@ I keep things focused so I can move fast:
 ---
 
 
-##🚀 What I'm Building
+## 🚀 What I'm Building
 
 🤖 Fletr — A debugging and monitoring tool for VDA5050-based AGV fleets. Fletr gives integrators, developers, and operators real-time visibility into protocol messages, vehicle states, and order flows — making it easier to diagnose issues, validate behavior, and ship robust AGV deployments with confidence.
 
